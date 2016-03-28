@@ -1,7 +1,7 @@
 title:            Scribble
 baseurl: ""
 url: "http://cosmomapanje.github.io"
-description:      A jekyll theme. Because I scribble.
+description:      Zip it.
 url:              # Site url, without a slash at the end.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -12,8 +12,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://shaohui.space
-    external:     true
+    url:          /
   - name:         GitHub
     url:          http://github.com/cosmomapanje
     external:     true
