@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Read List for June
-date: 2016-06-07 15:27:31
 disqus: y
 ---
 
