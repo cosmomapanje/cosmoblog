@@ -6,7 +6,7 @@ disqus: y
 
 ## To Read
 #### Paper
-* [Church 1936](https://www.ics.uci.edu/~lopes/teaching/inf213W12/readings/church.pdf)
+* [Church 1936](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf)
 * [Turing 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 
 #### Literature & Fiction
