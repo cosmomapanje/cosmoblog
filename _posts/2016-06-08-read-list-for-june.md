@@ -9,13 +9,11 @@ disqus: y
 #### Paper
 
 * [Church 1936](https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf)
-
 * [Turing 1936](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)
 
 #### Literature & Fiction
 
 * [十六岁](https://book.douban.com/subject/5340645/)
-
 * [捕鼠器](https://book.douban.com/subject/10539805/)
 
 #### Popular Science
@@ -27,7 +25,6 @@ disqus: y
 #### Computer Programming
 
 * [Essentials of Programming Languages](https://book.douban.com/subject/3136252/)
-
 * [The Little Schemer](https://book.douban.com/subject/1632977/)
 
 #### Popular Science
